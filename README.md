@@ -5,6 +5,10 @@ B2B businesses. It combines a polished interactive dashboard with a reference
 ASP.NET Core backend that demonstrates the architecture behind a production
 business application.
 
+**[Open the live demo](https://opspilot-anil-erp-demo.stoockerapp.chatgpt.site)**
+
+![OpsPilot ERP Operations Demo](public/og.png)
+
 ## What the demo shows
 
 - Operations dashboard with revenue, order pipeline and stock alerts
